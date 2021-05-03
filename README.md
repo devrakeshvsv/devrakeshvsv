@@ -13,9 +13,10 @@
 🐦 [twitter][twitter] **|**
 📺 [youtube][youtube] **|**
 🎥 [twitch][twitch] **|**
-📦 [npm][npm] **|**  -->
+📦 [npm][npm] **|**
 
 Shoutout to [Brad Garropy][brad] for the inspiration!
+-->
 
 [linkedin]: https://www.linkedin.com/in/rakesh-vishwakarma-197339122/
 [instagram]: https://instagram.com/https://www.instagram.com/_rakeshvsv_
