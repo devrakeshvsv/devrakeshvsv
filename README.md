@@ -7,7 +7,7 @@
 <!-- - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
 
 👔 [LinkedIn][linkedin] **|**
-📷 [Instagram][instagram] **|**
+📷 [Instagram][instagram]
 
 <!-- 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
