@@ -29,7 +29,6 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 
 <!-- ### Hi there 👋
 
-<!--
 **rakesh830566/rakesh830566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -42,4 +41,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
