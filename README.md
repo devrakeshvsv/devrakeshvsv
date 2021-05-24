@@ -1,8 +1,8 @@
 ## Hi, I'm Rakesh 👋 I'm a Full Stack Developer!
 
 - 🔭 I’m currently working on MERN Stack and my specialization in Node.JS!
-- 🌱 I’m currently learning MongoDB, Design, testing
-- 💬 Ask me about JavaScript, Full Stack development, and building cool sh\*t
+- 🌱 I’m currently learning MongoDB, Design, Testing
+- 💬 Ask me about JavaScript, Full Stack Development, and building cool sh\*t
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
 
