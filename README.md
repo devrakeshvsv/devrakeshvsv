@@ -6,8 +6,8 @@
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
 
-👔  [LinkedIn][linkedin] **|**
-📷  [Instagram][instagram]
+👔 [LinkedIn] [linkedin] **|**
+📷 [Instagram] [instagram]
 
 <!-- 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
