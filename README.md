@@ -19,7 +19,7 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 -->
 
 [linkedin]: https://www.linkedin.com/in/rakesh-vishwakarma-197339122/
-[instagram]: https://instagram.com/https://www.instagram.com/_rakeshvsv_
+[instagram]: https://www.instagram.com/_rakeshvsv_
 [website]: https://jamesqquick.com
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/jamesqquick
