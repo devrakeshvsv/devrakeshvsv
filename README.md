@@ -18,7 +18,7 @@
 Shoutout to [Brad Garropy][brad] for the inspiration!
 -->
 
-[linkedin]: https://www.linkedin.com/in/rakesh-vishwakarma-197339122/
+[linkedin]: https://www.linkedin.com/in/devrakeshvsv
 [instagram]: https://www.instagram.com/_rakeshvsv_
 [website]: https://jamesqquick.com
 [twitter]: https://twitter.com/
